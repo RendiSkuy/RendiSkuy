@@ -5,7 +5,7 @@
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=👋+Hey+There!+I'm+Rendi+Ripaldi;💻+Full-Stack+%26+Mobile+Developer;🚀+Building+Cool+Things+with+Code;🤖+AI+Integration+Enthusiast;☁️+Cloud+%26+DevOps+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=👋+Hey+There!+I'm+Rendi+Ripaldi;💻+Junior+Fullstack+Developer;📱+Mobile+Engineer+(Flutter);🚀+Building+Cool+Things+with+Code;🎓+D3+Informatics+%7C+Final+Semester" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,17 +35,18 @@
 
 ```yaml
 name       : Rendi Ripaldi
-role       : Full-Stack Developer & Mobile Engineer
+role       : Junior Fullstack Developer
+degree     : D3 Teknik Informatika (Diploma 3)
 university : Universitas Logistik dan Bisnis Internasional (ULBI)
-program    : Informatics Engineering
+status     : 🎓 Semester 6 - Final Semester
 location   : 📍 Indonesia
 focus      :
-  - 📱 Mobile Development (Flutter)
-  - 🌐 Full-Stack Web (React, Node.js, Go)
-  - 🤖 AI Integration
-  - ☁️  Cloud & DevOps (Docker, Proxmox)
+  - 📱 Mobile Development (Flutter & Dart)
+  - 🌐 Full-Stack Web (React, Node.js, Go, Laravel)
+  - 🤖 AI Integration into Apps
+  - ☁️  Cloud & DevOps (Docker, Proxmox, Linux)
 certification : SAP Certified
-currently  : Building scalable apps & exploring AI-powered solutions
+currently  : Finishing college & building real-world projects 🚀
 ```
 
 ---
