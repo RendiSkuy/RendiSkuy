@@ -23,9 +23,10 @@
 <a href="https://portofolio-rendi-seven.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="mailto:rendiripaldi225@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&to=rendiripaldi225@gmail.com&su=Halo%20Rendi%20%E2%80%94%20Saya%20Ingin%20Terhubung%20dengan%20Anda&body=Halo%20Rendi%2C%0A%0ASaya%20menemukan%20portfolio%20Anda%20dan%20sangat%20terkesan%20dengan%20karya-karya%20yang%20telah%20Anda%20buat.%0A%0ASaya%20ingin%20terhubung%20dengan%20Anda%20untuk%20%5Btulis%20tujuan%20Anda%20di%20sini%20%E2%80%94%20kolaborasi%20%2F%20peluang%20kerja%20%2F%20pertanyaan%20%2F%20dll%5D.%0A%0AMohon%20balas%20email%20ini%20jika%20Anda%20tertarik%2C%20saya%20sangat%20menantikan%20respons%20dari%20Anda.%0A%0ATerima%20kasih%2C%0A%5BNama%20Anda%5D" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
 <a href="https://www.instagram.com/rendi_ripaldii" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
