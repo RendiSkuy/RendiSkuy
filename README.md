@@ -1,43 +1,82 @@
-# 👋 Halo, Saya Rendi Ripaldi! 🚀
+# 👋 Halo, Saya Rendi Ripaldi!
 
-### 📱 Full-stack Developer | Flutter Enthusiast | DevOps Learner
-*Mahasiswa D3 Teknik Informatika @ ULBI (Semester 6)*
-
----
-
-### 💫 Tentang Saya
-- 🔭 **Sedang Mengerjakan:** [MyDailyKos](https://github.com/RendiSkuy), aplikasi manajemen keuangan mahasiswa berbasis Flutter & Firebase dengan fitur OCR cerdas.
-- 🌱 **Sedang Mendalami:** Integrasi AI (Gemini/TensorFlow) ke dalam aplikasi mobile dan otomasi workflow menggunakan **n8n**.
-- 🛠️ **Hobi Ngulik:** Server administration (Proxmox/Docker) dan pengerasan keamanan server (SSH Hardening & Fail2ban).
-- 🎓 **Sertifikasi:** Memiliki sertifikasi **SAP** untuk pemahaman proses bisnis yang terintegrasi.
+### 💻 Full-stack Developer | Mobile Specialist | DevOps Enthusiast
+*Informatics Engineering Student @ Universitas Logistik dan Bisnis Internasional (ULBI)*
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Tentang Saya
+Saya adalah seorang pengembang perangkat lunak yang berfokus pada pembangunan aplikasi mobile dan web yang efisien serta skalabel. Dengan latar belakang pendidikan Teknik Informatika, saya memiliki spesialisasi dalam **Mobile Development (Flutter)** dan **Full-stack Web Development (React & Node.js/Go)**.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend/Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) |
-| **DevOps & Infrastructure** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+Saya memiliki minat besar pada integrasi **Kecerdasan Buatan (AI)** untuk meningkatkan fungsionalitas aplikasi dan berpengalaman dalam mengelola infrastruktur server menggunakan teknologi **Cloud/On-premise (Docker, Proxmox)**. Saya adalah pribadi yang disiplin, pembelajar cepat, dan memiliki sertifikasi **SAP** yang memperkuat pemahaman saya mengenai proses bisnis digital.
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RendiSkuy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendiSkuy&layout=compact&theme=tokyonight&langs_count=6" />
+### 🛠️ Keahlian Teknis (Tech Stack)
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" />
+      <br />Flutter
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+      <br />React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Go" />
+      <br />Go
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
+      <br />Laravel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
+      <br />Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" />
+      <br />Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <br />PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+      <br />Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
+      <br />Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br />Git
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Statistik Aktivitas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RendiSkuy&show_icons=true&theme=tokyonight&count_private=true" alt="Rendi's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendiSkuy&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 ---
 
-### 📩 Mari Terhubung!
-- 💼 **LinkedIn:** [linkedin.com/in/rendi-ripaldi](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- 📧 **Email:** rendiripaldi@example.com (Sesuaikan dengan emailmu)
-- 🕸️ **Portfolio:** [rendiskuy.github.io](https://rendiskuy.github.io)
+### 📫 Hubungi Saya
+- 💼 **LinkedIn:** [Rendi Ripaldi](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- 🌐 **Portfolio Website:** [rendiskuy.github.io](https://rendiskuy.github.io)
+- 📧 **Email:** rendiripaldi@email.com (Sesuaikan dengan emailmu)
 
 ---
 
-### ⚡ Fun Fact
-"Pernah tidak sengaja menghapus OS Windows saat mencoba instalasi Proxmox, tapi itulah awal mula saya benar-benar memahami cara kerja partisi disk dan recovery sistem!"
+### ⚡ Trivia
+"Sangat menikmati proses pemecahan masalah (debugging) dan otomatisasi workflow untuk membuat sistem yang lebih cerdas dan mandiri."
