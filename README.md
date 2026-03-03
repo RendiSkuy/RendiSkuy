@@ -122,17 +122,9 @@ currently: Finishing college & building real-world projects 🚀
 
 </div>
 
----
 
-## 💬 Random Dev Quote
 
-<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-
-</div>
-
----
 
 <div align="center">
 
