@@ -5,7 +5,7 @@
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=👋+Hey+There!+I'm+Rendi+Ripaldi;💻+Junior+Fullstack+Developer;📱+Mobile+Engineer+(Flutter);🚀+Building+Cool+Things+with+Code;🎓+D3+Informatics+%7C+Final+Semester" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=%F0%9F%91%8B+Hey+There!+I'm+Rendi+Ripaldi;%F0%9F%92%BB+Junior+Fullstack+Developer;%F0%9F%93%B1+Mobile+Engineer+(Flutter);%F0%9F%9A%80+Building+Cool+Things+with+Code;%F0%9F%8E%93+D3+Informatics+%7C+Final+Semester" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -38,19 +38,19 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name       : Rendi Ripaldi
-role       : Junior Fullstack Developer
-degree     : D3 Teknik Informatika (Diploma 3)
-university : Universitas Logistik dan Bisnis Internasional (ULBI)
-status     : 🎓 Semester 6 - Final Semester
-location   : 📍 Indonesia
-focus      :
+name: Rendi Ripaldi
+role: Junior Fullstack Developer
+degree: D3 Teknik Informatika (Diploma 3)
+university: Universitas Logistik dan Bisnis Internasional (ULBI)
+status: 🎓 Semester 6 - Final Semester
+location: 📍 Indonesia
+focus:
   - 📱 Mobile Development (Flutter & Dart)
   - 🌐 Full-Stack Web (React, Node.js, Go, Laravel)
   - 🤖 AI Integration into Apps
   - ☁️  Cloud & DevOps (Docker, Proxmox, Linux)
-certification : SAP Certified
-currently  : Finishing college & building real-world projects 🚀
+certification: SAP Certified
+currently: Finishing college & building real-world projects 🚀
 ```
 
 ---
@@ -80,7 +80,7 @@ currently  : Finishing college & building real-world projects 🚀
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RendiSkuy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=false" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RendiSkuy&theme=tokyonight&border_radius=10&hide_border=false" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=RendiSkuy&theme=tokyonight&border_radius=10&hide_border=false" alt="GitHub Streak"/>
 
 <br/>
 
@@ -100,7 +100,7 @@ currently  : Finishing college & building real-world projects 🚀
 
 ---
 
-## � Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -110,7 +110,7 @@ currently  : Finishing college & building real-world projects 🚀
 
 ---
 
-## � Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -124,7 +124,7 @@ currently  : Finishing college & building real-world projects 🚀
 
 ---
 
-## � Random Dev Quote
+## 💬 Random Dev Quote
 
 <div align="center">
 
