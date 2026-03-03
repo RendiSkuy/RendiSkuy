@@ -122,9 +122,11 @@ currently: Finishing college & building real-world projects 🚀
 
 </div>
 
+---
 
 
 
+---
 
 <div align="center">
 
