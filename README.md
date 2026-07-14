@@ -120,12 +120,12 @@ Here are some of the key projects I've built, aligning with my professional expe
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RendiSkuy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=false&cache_seconds=86400" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=RendiSkuy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=false&cache_seconds=86400" alt="GitHub Stats"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=RendiSkuy&theme=tokyonight&border_radius=10&hide_border=false" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendiSkuy&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+<img width="40%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RendiSkuy&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
 
 </div>
 
@@ -135,7 +135,7 @@ Here are some of the key projects I've built, aligning with my professional expe
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RendiSkuy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy-winning.vercel.app/?username=RendiSkuy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies"/>
 
 </div>
 
